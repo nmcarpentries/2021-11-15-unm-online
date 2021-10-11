@@ -244,8 +244,10 @@ Display the contact email address set in the configuration file.
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to members of the UNM Health Sciences Center. For the purposes of NM EPSCoR reporting, attendees are asked
+    This workshop is open to UNM Health Sciences Center personnel involved in research including faculty, students, and staff. 
+  For the purposes of NM EPSCoR reporting, attendees are asked
   to register at <a href="https://www.nmepscor.org/form/data-carpentry-registration-hsc">https://www.nmepscor.org/form/data-carpentry-registration-hsc</a>.
+  Registrations are capped at <strong>20</strong> people.
   Please forward questions to the workshop organizers at any of the provided the email addresses.
 </p>
 
