@@ -242,7 +242,6 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
-{% comment %}
 WHO CAN ATTEND?
 
 If you would like to specify who can attend the workshop,
@@ -259,9 +258,10 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to members of the UNM Health Sciences Center. For the purposes of NM EPSCoR reporting, attendees are asked
+  to register at <a href="https://www.nmepscor.org/form/data-carpentry-registration-hsc">https://www.nmepscor.org/form/data-carpentry-registration-hsc</a>.
+  Please forward questions to the workshop organizers at any of the provided the email addresses.
 </p>
-{% endcomment %}
 
 <hr/>
 
